@@ -86,9 +86,6 @@ header .logo img {
 .search input::-moz-placeholder {
   color: #fff;
 }
-.search input:-ms-input-placeholder {
-  color: #fff;
-}
 .search input::placeholder {
   color: #fff;
 }
